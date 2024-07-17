@@ -67,7 +67,7 @@ const Section2 = ({ scrollYProgress }) => {
   return (
     <motion.div style={{ scale, rotate }} className="relative h-screen">
       <div className="flex items-center justify-center h-full">
-        <div className="w-[80%] h-[80%] bg-gray-200 text-center flex items-center justify-center">
+        <div className="w-[100%] h-[100%] bg-gray-200 text-center flex items-center justify-center">
           <p>Map will be placed here</p>
         </div>
       </div>
